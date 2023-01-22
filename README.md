@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Installation
+## Installación
 
 Clonar el repositorio:
 
@@ -39,6 +39,8 @@ Configuración:
 ```sh
 cp .env.example .env
 ```
+
+Configura el servidor de correos con Mailtrap o el proveedor que prefieras
 
 Generate application key:
 
